@@ -3,4 +3,4 @@
 ## Topics covered
 - API call in SwiftUI
 - MVC design pattern
-- Github Pages public API usage
+- Github Docs REST API
