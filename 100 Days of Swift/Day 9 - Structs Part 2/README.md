@@ -5,10 +5,9 @@
 ## Day 8 - Structs Pt.1
 
 Topics covered:
-- Creating structs
-- Computed Properties
-- Property observers - didSet{} and willSet{}
-- Methods
-- Mutating Methods
-- Properties and Methods of Strings
-- Properties and Methids of Arrays
+- Initializers
+- Referring to the current instance
+- Lazy properties
+- Static properties and methods
+- Access control
+- Structs summary
