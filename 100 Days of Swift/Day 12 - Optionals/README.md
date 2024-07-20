@@ -5,8 +5,13 @@
 ## Day 12 - Optionals
 
 Topics covered:
-- Protocols
-- Protocols inheritance
-- Extensions
-- Protocol Extensions
-- Protocol-Oriented-Programming
+- Handling missing data
+- Unwrapping optionals
+- Unwrapping with GUARD
+- Force unwrapping
+- Implicity unwrapped optionals
+- Coalescing operators
+- Optional chaining
+- Optional try
+- Failable Initializers
+- Typecasting
